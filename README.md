@@ -65,16 +65,6 @@ This project demonstrates advanced **Game Development** concepts including AI Na
 
 ---
 
-## 📸 Screenshots
-
-*(Place your screenshots in a folder named 'Screenshots' and uncomment these lines)*
-
-| Main Menu | Victory Screen |
-|:---:|:---:|
-| | |
-
----
-
 ## 📂 Project Structure
 
 * `Assets/Scripts/AI`: Contains logic for Golems and Spiders (`SpiderAI.cs`, `GolemAI.cs`).
